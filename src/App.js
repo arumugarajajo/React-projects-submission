@@ -1,11 +1,11 @@
 
 import './App.css';
-import Finance from './Finance/Finance';
+import Facebook from './Facebook/Facebook';
 
 function App() {
   return (
     <div className="App">
-      <Finance />
+      <Facebook />
     </div>
   );
 }
