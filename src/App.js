@@ -1,11 +1,11 @@
 
 import './App.css';
-import Rating from './flipkartReview/Rating';
+import Finance from './Finance/Finance';
 
 function App() {
   return (
     <div className="App">
-      <Rating />
+      <Finance />
     </div>
   );
 }
